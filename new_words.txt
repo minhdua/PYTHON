@@ -1,0 +1,10 @@
+allocation : Phân bố
+deallocation : tái phân bố
+homogeneous : đồng nhất
+mutable : đột biến
+definite : xác định
+according : tùy theo
+preserving : cất giữ 
+offset : bù lại
+partitioning : phân vùng
+

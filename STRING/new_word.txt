@@ -1,0 +1,7 @@
+novel : mới lạ
+manipulate : vận dụng 
+truncate : cắt ngắn
+extremely : vô cùng
+separated : tách biệt
+validate : xác nhận
+
